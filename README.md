@@ -1,11 +1,9 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;border-collapse:collapse;">
 <tr>
-<td valign="middle">
-<div width="500">
+<td valign="middle" style="border:none;">
 <h1>Nykolas Farhangi</h1>
-</div>
 </td>
-<td valign="middle" align="right" width="100">
+<td valign="middle" align="right" width="100" style="border:none;">
 <img src="rocket-nyko.svg" width="100" height="100" alt="Rocket illustration">
 </td>
 </tr>
