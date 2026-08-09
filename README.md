@@ -9,7 +9,11 @@
 
 I solve cool problems in interesting spaces — a generalist who owns products end-to-end, from UI to backend to deployment.
 
+<br>
+
 **Working with:** Go · TypeScript · Python · Java · Angular · React · Next.js · Node.js · GCP · AWS · Docker · GraphQL · Protobuf · PostgreSQL
+
+<br>
 
 - 🔭 Looking for work in Los Angeles, CA and Seattle, WA
 - 🌐 [nykolas.me](https://nykolas.me)
