@@ -1,4 +1,6 @@
-<img align="right" src="rocket-nyko.svg" width="120" height="120" alt="Rocket illustration">
+<img align="right" src="rocket-nyko.svg" width="160" height="160" alt="Rocket illustration">
+
+<br>
 
 ### Nykolas Farhangi
 
