@@ -1,7 +1,5 @@
 <img align="right" src="rocket-nyko.svg" width="160" height="160" alt="Rocket illustration">
 
-<br>
-
 ### Nykolas Farhangi
 
 **Full-Stack & Cloud Engineer, ex-Google** ⚡<br>
