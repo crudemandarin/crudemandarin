@@ -1,16 +1,11 @@
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;border-collapse:collapse;">
-<tr>
-<td valign="middle" style="border:none;">
-<h1>Nykolas Farhangi</h1>
-</td>
-<td valign="middle" align="right" width="100" style="border:none;">
-<img src="rocket-nyko.svg" width="100" height="100" alt="Rocket illustration">
-</td>
-</tr>
-</table>
+<img align="right" src="rocket-nyko.svg" width="120" height="120" alt="Rocket illustration">
+
+### Nykolas Farhangi
 
 **Full-Stack & Cloud Engineer, ex-Google** ⚡<br>
 **B.S., Computer Science, University of Houston** 🎓
+
+<br clear="right">
 
 I solve cool problems in interesting spaces — a generalist who owns products end-to-end, from UI to backend to deployment.
 
