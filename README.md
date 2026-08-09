@@ -1,11 +1,11 @@
 # Nykolas Farhangi
  
-### Software Engineer
+**Full-Stack & Cloud Engineer, ex-Google** ⚡
+B.S., Computer Science @ University of Houston 🎓
  
-Backend & full-stack engineer, ex-Google Cloud. I do the unglamorous stuff nobody brags about — key management, safe migrations, least-privilege — because that's where correctness actually lives. Ask me about the time a 15-minute write-lock migrated a production database.
+I like to solve cool problems in interesting spaces. I'm a generalist who likes to own my products end-to-end, from user interface to service and data to deployment.
  
-**Working with:** Go · TypeScript · Python · GCP · AWS
+**Working with:** Go · TypeScript · Python · Java · Angular · React · Next.js · Node.js · GCP · AWS · Docker · GraphQL · Protobuf · PostgreSQL
  
-- 🔭 Figuring out what's next
+- 🔭 Looking for work in the Los Angeles, CA and Seattle, WA areas
 - 🌐 [nykolas.me](https://nykolas.me)
-- 📍 Los Angeles, CA
